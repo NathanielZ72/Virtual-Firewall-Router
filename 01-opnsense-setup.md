@@ -30,7 +30,6 @@ This should give me a good starting point while still leaving enough resources a
 
 ## Network Design
 
-![Network Topology](../diagrams/network-topology.png)
 
 The basic network I created looks like this:
 
